@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-30d21edac829c5088dad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SJZ_Metro_Ticketing_System",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SJZ_Metro_Ticketing_System::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SJZ_Metro_Ticketing_System-Release-7f7833b0d4d9d83e6b02.json",
+					"name" : "SJZ_Metro_Ticketing_System",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SJZ_Metro_Ticketing_System_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SJZ_Metro_Ticketing_System_autogen-Release-5fa4b871eac219d265bd.json",
+					"name" : "SJZ_Metro_Ticketing_System_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SJZ_Metro_Ticketing_System_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SJZ_Metro_Ticketing_System_autogen_timestamp_deps-Release-08c64b0b01ac92973bc0.json",
+					"name" : "SJZ_Metro_Ticketing_System_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/VSCode/chuangB/SJZ_Metro_Ticketing_System/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release",
+		"source" : "D:/VSCode/chuangB/SJZ_Metro_Ticketing_System"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
